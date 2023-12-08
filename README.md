@@ -6,6 +6,11 @@ Este repositorio contiene el código y los recursos utilizados para desarrollar 
 
 El objetivo principal de este trabajo práctico es implementar LightFM para desarrollar un sistema de recomendación. Se busca evaluar la efectividad del modelo en la tarea de recomendar 20 animes a usuarios de la plataforma myanimelist.net
 
+## Autores
+- Keiver Nuñez
+- Guadalupe Rodriguez
+- Nicolás Guillou
+  
 ## Contenido del Repositorio
 
 ### Archivos Principales
