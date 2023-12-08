@@ -20,7 +20,7 @@ El objetivo principal de este trabajo práctico es implementar LightFM para desa
 
 - 'Recomendaciones.csv': Dataset que contiene las recomendaciones de 20 animes (anime\_id) para cada usuario (user\_id).
 
-### Recursos
+### Recursos (agregar carpeta de drive donde se encuentren los recursos)
 
 - 'rating\_complete\_filtrado.csv': Dataset obtenido a partir del filtrado del dataset original 'rating\_complete.csv', considerando solo los casos de usuarios que hayan puesto puntaje a más de 150 animes. Esto se hizo con el objetivo de reducir la dimensionalidad.
 
