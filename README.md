@@ -4,7 +4,7 @@ Este repositorio contiene el código y los recursos utilizados para desarrollar 
 
 ## Objetivo
 
-El objetivo principal de este trabajo práctico es implementar un modelo de recomendación utilizando LightFM, un sistema de recomendación basado en factorización matricial. Se busca evaluar la efectividad del modelo en la tarea de recomendar 20 animes a usuarios de la plataforma myanimelist.net
+El objetivo principal de este trabajo práctico es implementar LightFM para desarrollar un sistema de recomendación. Se busca evaluar la efectividad del modelo en la tarea de recomendar 20 animes a usuarios de la plataforma myanimelist.net
 
 ## Contenido del Repositorio
 
