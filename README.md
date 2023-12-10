@@ -33,7 +33,7 @@ El objetivo principal de este trabajo práctico es implementar LightFM para desa
 
 - 'matriz\_interacciones.pickle': Archivo que contiene la serialización de la matriz de interacciones para el conjunto de entrenamiento.
 
-- 'matriz\_interacciones\_test': Archivo que contiene la serialización de la matriz de interacciones para el conjunto de prueba.
+- 'matriz\_interacciones\_test.pickle': Archivo que contiene la serialización de la matriz de interacciones para el conjunto de prueba.
 
 - 'synopsis.csv': Dataset que contiene los anime_id's, nombres de animés y su sinopsis.
 
