@@ -17,13 +17,15 @@ El objetivo principal de este trabajo práctico es implementar LightFM para desa
 
 - 'TP\_Recommender\_System\_EDA\_.ipynb': Notebook de Jupyter que contiene una exploración de los datasets que utilizamos para el sistema de recomendación.
 
-- 'Recommender\_System\_LightFM.ipynb': Notebook que contiene el código de implementación del modelo de recomendación utilizando LightFM.
+- 'Recommender\_system\_LightFM.ipynb': Notebook que contiene el código de implementación del modelo de recomendación utilizando LightFM.
 
 - 'Gridsearch\_LightFM.ipynb': Notebook que contiene la búsqueda de los mejores hiperparámetros para nuestro modelo de recomendación.
 
 - 'Matrices\_Train\_Test\_pickle.ipynb': Notebook que contiene la división en conjuntos de entrenamiento y prueba, su factorización de matrices, y la serialización de estos objetos a través de pickle.
 
 - 'Recomendaciones.csv': Dataset que contiene las recomendaciones de 20 animes (anime\_id) para cada usuario (user\_id).
+
+- 'Presentación TP_FINAL - Sistemas de Recomendación.pptx': Presentación del trabajo práctico final.
 
 ### Recursos (agregar carpeta de drive donde se encuentren los recursos)
 
@@ -32,6 +34,10 @@ El objetivo principal de este trabajo práctico es implementar LightFM para desa
 - 'matriz\_interacciones.pickle': Archivo que contiene la serialización de la matriz de interacciones para el conjunto de entrenamiento.
 
 - 'matriz\_interacciones\_test': Archivo que contiene la serialización de la matriz de interacciones para el conjunto de prueba.
+
+- 'synopsis.csv': Dataset que contiene los anime_id's, nombres de animés y su sinopsis.
+
+- 'recomendaciones.pickle': Archivo que contiene la serialización del dataset 'Recomendaciones.csv'.
 
 ## Descripción del Proyecto
 
