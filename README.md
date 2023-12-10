@@ -27,7 +27,7 @@ El objetivo principal de este trabajo práctico es implementar LightFM para desa
 
 - 'Presentación TP_FINAL - Sistemas de Recomendación.pptx': Presentación del trabajo práctico final.
 
-### Recursos (agregar carpeta de drive donde se encuentren los recursos)
+### Recursos (https://drive.google.com/drive/folders/185f5mief9EWhdIrkwL2qP9eqLebfIPuO?usp=sharing)
 
 - 'rating\_complete\_filtrado.csv': Dataset obtenido a partir del filtrado del dataset original 'rating\_complete.csv', considerando solo los casos de usuarios que hayan puesto puntaje a más de 150 animes. Esto se hizo con el objetivo de reducir la dimensionalidad.
 
